@@ -1,0 +1,22 @@
+/Users/Duncan/Projects/Personal Practise/Testfortxt/Testfortxt/bin/Debug/netcoreapp3.1/Testfortxt
+/Users/Duncan/Projects/Personal Practise/Testfortxt/Testfortxt/bin/Debug/netcoreapp3.1/Testfortxt.deps.json
+/Users/Duncan/Projects/Personal Practise/Testfortxt/Testfortxt/bin/Debug/netcoreapp3.1/Testfortxt.runtimeconfig.json
+/Users/Duncan/Projects/Personal Practise/Testfortxt/Testfortxt/bin/Debug/netcoreapp3.1/Testfortxt.runtimeconfig.dev.json
+/Users/Duncan/Projects/Personal Practise/Testfortxt/Testfortxt/bin/Debug/netcoreapp3.1/Testfortxt.dll
+/Users/Duncan/Projects/Personal Practise/Testfortxt/Testfortxt/bin/Debug/netcoreapp3.1/Testfortxt.pdb
+/Users/Duncan/Projects/Personal Practise/Testfortxt/Testfortxt/obj/Debug/netcoreapp3.1/Testfortxt.csprojAssemblyReference.cache
+/Users/Duncan/Projects/Personal Practise/Testfortxt/Testfortxt/obj/Debug/netcoreapp3.1/Testfortxt.AssemblyInfoInputs.cache
+/Users/Duncan/Projects/Personal Practise/Testfortxt/Testfortxt/obj/Debug/netcoreapp3.1/Testfortxt.AssemblyInfo.cs
+/Users/Duncan/Projects/Personal Practise/Testfortxt/Testfortxt/obj/Debug/netcoreapp3.1/Testfortxt.dll
+/Users/Duncan/Projects/Personal Practise/Testfortxt/Testfortxt/obj/Debug/netcoreapp3.1/Testfortxt.pdb
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Testfortxt\Testfortxt\bin\Debug\netcoreapp3.1\Testfortxt.exe
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Testfortxt\Testfortxt\bin\Debug\netcoreapp3.1\Testfortxt.deps.json
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Testfortxt\Testfortxt\bin\Debug\netcoreapp3.1\Testfortxt.runtimeconfig.json
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Testfortxt\Testfortxt\bin\Debug\netcoreapp3.1\Testfortxt.runtimeconfig.dev.json
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Testfortxt\Testfortxt\bin\Debug\netcoreapp3.1\Testfortxt.dll
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Testfortxt\Testfortxt\bin\Debug\netcoreapp3.1\Testfortxt.pdb
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Testfortxt\Testfortxt\obj\Debug\netcoreapp3.1\Testfortxt.csprojAssemblyReference.cache
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Testfortxt\Testfortxt\obj\Debug\netcoreapp3.1\Testfortxt.AssemblyInfoInputs.cache
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Testfortxt\Testfortxt\obj\Debug\netcoreapp3.1\Testfortxt.AssemblyInfo.cs
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Testfortxt\Testfortxt\obj\Debug\netcoreapp3.1\Testfortxt.dll
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Testfortxt\Testfortxt\obj\Debug\netcoreapp3.1\Testfortxt.pdb
